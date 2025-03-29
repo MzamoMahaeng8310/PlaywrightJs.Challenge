@@ -23,6 +23,6 @@ jobs:
     - uses: actions/upload-artifact@v4
       if: ${{ !cancelled() }}
       with:
-        name: playwright-report
-        path: playwright-report/
+        name: playwright-monocart
+        path: monocart-report/
         retention-days: 30
