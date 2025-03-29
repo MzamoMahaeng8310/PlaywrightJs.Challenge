@@ -1,0 +1,25 @@
+{
+    "validBooking": {
+      "firstname": "Willie",
+      "lastname": "Le Roux",
+      "totalprice": 200,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2025-03-28",
+        "checkout": "2025-03-29"
+      },
+      "additionalneeds": "Best Passing Game"
+    },
+    "anotherBooking": {
+      "firstname": "Cheslin",
+      "lastname": "Colby",
+      "totalprice": 340,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2025-03-30",
+        "checkout": "2025-04-02"
+      },
+      "additionalneeds": "Best Stepper Ever"
+    }
+  }
+  
