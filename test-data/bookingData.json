@@ -10,7 +10,7 @@
       },
       "additionalneeds": "Best Passing Game"
     },
-    "anotherBooking": {
+    "updateBooking": {
       "firstname": "Cheslin",
       "lastname": "Colby",
       "totalprice": 340,
