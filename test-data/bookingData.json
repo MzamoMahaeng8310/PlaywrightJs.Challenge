@@ -20,6 +20,11 @@
         "checkout": "2025-04-02"
       },
       "additionalneeds": "Best Stepper Ever"
+    },
+
+    "authenticateCredentials": {
+      "username": "admin",
+      "password": "password123"
     }
   }
   
