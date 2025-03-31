@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test:ui" : "npx playwright test tests/ui/checkout.test.js",
+    "test:api": "npx playwright test tests/api"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
