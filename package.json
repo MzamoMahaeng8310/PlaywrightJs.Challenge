@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test:ui" : "npx playwright test tests/ui/checkout.test.js",
+    "test:ui" : "npx playwright test tests/ui/auth.test.js",
     "test:api": "npx playwright test tests/api"
   },
   "keywords": [],
