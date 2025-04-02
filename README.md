@@ -36,7 +36,7 @@ and run workflow
 ![alt text](image-7.png)
 
 wait for the GitAction to complete and you will see in all green upon completion.
-Then you select the completed pipeline exetion.This will generate a new artefact which will then contain the monocar report.
+Then you select the completed pipeline exetion.This will generate a new artefact which will then contain the monocart report.
 ![alt text](image-8.png)
 This is a what the monocart report looks like. I'm viewing the html.
 This is the monocart report that I donloaded from the GitActions execution
