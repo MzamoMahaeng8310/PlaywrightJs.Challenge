@@ -3,4 +3,6 @@ $commitMsg = Read-Host
 git add .
 git status
 git commit -m "$commitMsg"
-git push -u origin main
+Write-Host "What is the branch you are comming to: " -ForegroundColor Cyan
+$brachName = Read-Host
+git push -u origin $brachName
