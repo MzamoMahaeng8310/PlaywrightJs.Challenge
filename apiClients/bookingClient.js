@@ -43,24 +43,4 @@ export class BookingClient {
         });
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

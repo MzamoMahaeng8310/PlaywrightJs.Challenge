@@ -1,4 +1,5 @@
 import { expect } from '@playwright/test';
+import {FakerData} from  '../../test-data/FakerData.js';
 
 export class LoginPage {
     constructor(page) {
