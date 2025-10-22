@@ -1,7 +1,7 @@
 {
     "validBooking": {
-      "firstname": "Willie",
-      "lastname": "Le Roux",
+      "firstname": "Malcolm",
+      "lastname": "Marx",
       "totalprice": 200,
       "depositpaid": true,
       "bookingdates": {
