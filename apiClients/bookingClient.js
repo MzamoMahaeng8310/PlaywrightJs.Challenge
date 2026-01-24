@@ -1,8 +1,9 @@
+import bookingData from '../test-data/bookingData.json' assert { type: 'json' };
 export class BookingClient {
 
     constructor(request) {
         this.request = request;
-        this.baseUrl = "https://restful-booker.herokuapp.com";
+        this.baseUrl =  bookingData.baseEndpoint.endpoint;
     }
 
     async authenticate(username, password) {
