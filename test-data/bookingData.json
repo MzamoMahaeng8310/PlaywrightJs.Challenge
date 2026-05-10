@@ -25,7 +25,10 @@
     "authenticateCredentials": {
       "username": "admin",
       "password": "password123"
+    },
+      "baseEndpoint":
+    {
+    "endpoint": "https://restful-booker.herokuapp.com"
     }
-  
   }
   

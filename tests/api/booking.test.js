@@ -2,6 +2,7 @@ import { test, expect, request as playwrightRequest } from '@playwright/test';
 import bookingData from '../../test-data/bookingData.json' assert { type: 'json' };
 import { BookingClient } from '../../apiClients/bookingClient.js';
 
+
 test.describe.serial('CRUD Booking API Tests', () => {
     let token;
     let bookingId;
